@@ -1,0 +1,25 @@
+{
+  "name": "My PWA",
+  "short_name": "PWA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "images/logoclix.png",
+      "sizes": "195x195",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logoclixnew.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logoIcon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
