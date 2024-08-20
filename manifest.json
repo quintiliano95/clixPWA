@@ -1,14 +1,16 @@
 {
-    "name": "The name of your application",
-    "display_override": ["window-controls-overlay"],
-    "short_name": "This name will show in your Windows taskbar, in the start menu, and Android homescreen",
-    "start_url": "The URL that should be loaded when your application is opened",
+    "name": "Clix",
+    "display_override": [
+      "window-controls-overlay"
+    ],
+    "short_name": "Clix",
+    "start_url": "https://quintiliano95.github.io/clixPWA/",
     "display": "standalone",
-    "description": "A description for your application",
-    "lang": "The default language of your application",
+    "description": "Clix",
+    "lang": "pt",
     "dir": "auto",
     "theme_color": "#000000",
-    "background_color": "#000000",
+    "background_color": "#ff7033",
     "orientation": "any",
     "icons": [
       {
@@ -51,6 +53,6 @@
         "protocol": "mailto",
         "url": "/mailto?to=%s"
       }
-    ]
+    ],
+    "id": "1"
   }
-
