@@ -1,7 +1,7 @@
 {
   "name": "My PWA",
   "short_name": "PWA",
-  "start_url": ".",
+  "start_url": "http://127.0.0.1:5500/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
