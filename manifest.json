@@ -37,7 +37,7 @@
     "related_applications": [
       {
         "platform": "windows",
-        "url": "https://quintiliano95.github.io/clixPWA/"
+        "url": "127.0.0.1:8000/"
       }
     ],
     "prefer_related_applications": false,
