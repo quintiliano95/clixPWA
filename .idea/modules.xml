@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/clixPWA.iml" filepath="$PROJECT_DIR$/.idea/clixPWA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/meuApp.iml" filepath="$PROJECT_DIR$/.idea/meuApp.iml" />
     </modules>
   </component>
 </project>
