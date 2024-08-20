@@ -52,13 +52,13 @@ h2 {
 }
 
 .input-group {
-    max-width: 95%;
+    max-width: 96%;
     margin-bottom: 20px;
 }
 
 input[type="email"],
 input[type="password"] {
-    width: 95%;
+    width: 96%;
     padding: 12px;
     border: 1px solid #ddd;
     border-radius: 4px;
